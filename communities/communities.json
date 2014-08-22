@@ -1,0 +1,22 @@
+[
+   {
+       "name": "Template",
+       "url": "URL to your website with http(s)://",
+       "map": "URL to your map with http(s)://",
+       "prefix": "Prefix of your nodes names",
+       "contacts": [
+           {
+               "firstname": "John",
+               "lastname": "Doe",
+               "nick": "JoDo",
+               "mail": "jodo@trashmail.com"
+           },
+           {
+               "firstname": "Jane",
+               "lastname": "Doe",
+               "nick": "",
+               "mail": "jado@trashmail.com"
+           }
+       ]
+   }
+]
