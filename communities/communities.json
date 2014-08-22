@@ -1,22 +1,336 @@
 [
-   {
-       "name": "Template",
-       "url": "URL to your website with http(s)://",
-       "map": "URL to your map with http(s)://",
-       "prefix": "Prefix of your nodes names",
-       "contacts": [
-           {
-               "firstname": "John",
-               "lastname": "Doe",
-               "nick": "JoDo",
-               "mail": "jodo@trashmail.com"
-           },
-           {
-               "firstname": "Jane",
-               "lastname": "Doe",
-               "nick": "",
-               "mail": "jado@trashmail.com"
-           }
-       ]
-   }
+  {
+    "name": "Template",
+    "url": "URL to your website with http(s)://",
+    "map": "URL to your map with http(s)://",
+    "prefix": "Prefix of your nodes names",
+    "contacts": [
+      {
+        "firstname": "John",
+        "lastname": "Doe",
+        "nick": "JoDo",
+        "mail": "jodo@trashmail.com"
+      },
+      {
+        "firstname": "Jane",
+        "lastname": "Doe",
+        "nick": "",
+        "mail": "jado@trashmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Oberhausen",
+    "url": "http://wiki.freifunk.net/Freifunk_Oberhausen",
+    "map": "http://map.freifunk-ruhrgebiet.de/OB/",
+    "prefix": "FF-OB-",
+    "contacts": [
+      {
+        "firstname": "Chris",
+        "lastname": "",
+        "nickname": "CHR1S",
+        "mail": "chris@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Essen",
+    "url": "https://wiki.freifunk-rheinland.net/Essen",
+    "map": "http://map.freifunk-ruhrgebiet.de/E/",
+    "prefix": "FF-E-",
+    "contacts": [
+      {
+        "firstname": "Philip",
+        "lastname": "",
+        "nickname": "",
+        "mail": "philip@freifunk-ruhrgebiet.de"
+      },
+      {
+        "firstname": "Janik",
+        "lastname": "",
+        "nickname": "",
+        "mail": "janik@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Essen-Kupferdreh",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Arnd",
+        "lastname": "",
+        "nickname": "",
+        "mail": "arnd@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Bochum",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/BO/",
+    "prefix": "FF-BO-",
+    "contacts": [
+      {
+        "firstname": "Julian",
+        "lastname": "",
+        "nickname": "",
+        "mail": "julian@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Bochum Bermuda3ck",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "André",
+        "lastname": "",
+        "nickname": "",
+        "mail": "andre@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Herten",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Jörg",
+        "lastname": "",
+        "nickname": "",
+        "mail": "joerg@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Herne",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/HER/",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Chris",
+        "lastname": "",
+        "nickname": "",
+        "mail": "chris@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Mülheim",
+    "url": "",
+    "map": "",
+    "prefix": "FF-MUL-",
+    "contacts": [
+      {
+        "firstname": "Janik",
+        "lastname": "",
+        "nickname": "",
+        "mail": "janik@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Eversael",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Chris",
+        "lastname": "",
+        "nickname": "CHR1S",
+        "mail": "chris@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Duisburg",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/DU/",
+    "prefix": "FF-DU-",
+    "contacts": [
+      {
+        "firstname": "Janik",
+        "lastname": "",
+        "nickname": "",
+        "mail": "janik@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Hamm",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/HAM/",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Martin",
+        "lastname": "",
+        "nickname": "",
+        "mail": "martin@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Gevelsberg",
+    "url": "http://www.freifunk-gevelsberg.net/",
+    "map": "http://map.freifunk-ruhrgebiet.de/EN/",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Chris",
+        "lastname": "",
+        "nickname": "sirhcnailuj",
+        "mail": "sirhcnailuj@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Mönchengladbach",
+    "url": "http://freifunk-moenchengladbach.de",
+    "map": "http://map.freifunk-moenchengladbach.de",
+    "prefix": "FF-MG-",
+    "contacts": [
+      {
+        "firstname": "Freifunk Mönchengladbach",
+        "lastname": "",
+        "nickname": "",
+        "mail": "kontakt@freifunk-moenchengladbach.de"
+      }
+    ]
+  },
+  {
+    "name": "Kreis Kempen",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/KK/",
+    "prefix": "FF-KK-",
+    "contacts": [
+      {
+        "firstname": "Jan",
+        "lastname": "",
+        "nickname": "",
+        "mail": "jan@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Schwerte",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Markus",
+        "lastname": "",
+        "nickname": "",
+        "mail": "markus.lindenberg@gmail.com"
+      }
+    ]
+  },
+  {
+    "name": "Hagen",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Gelsenkirchen",
+    "url": "http://wiki.freifunk.net/Freifunk_Gelsenkirchen",
+    "map": "",
+    "prefix": "FF-GE-",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "Ghosttown",
+        "mail": "ghosttown-freifunk@gmx.de"
+      }
+    ]
+  },
+  {
+    "name": "Werne",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Freifunk Werne",
+        "lastname": "",
+        "nickname": "",
+        "mail": "freifunk_werne@icloud.com"
+      }
+    ]
+  },
+  {
+    "name": "Dortmund",
+    "url": "",
+    "map": "",
+    "prefix": "FF-DO-",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Castrop-Rauxel",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Bad Essen",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Krefeld",
+    "url": "",
+    "map": "",
+    "prefix": "FF-KR-",
+    "contacts": [
+      {
+        "firstname": "Reiner",
+        "lastname": "",
+        "nickname": "",
+        "mail": "reiner@freifunk-moenchengladbach.de"
+      }
+    ]
+  }
 ]
