@@ -6,7 +6,10 @@ $comms_json = file_get_contents($comms_url);
 $comms_arr  = json_decode($comms_json,TRUE);
 
 echo "<table>\n";
-echo "<tr><th width=\"180px\">Stadt/Community</th><th width=\"30px\">Karte</th><th>Ansprechpartner</th></tr>\n";
+echo "<tr><td style=\"font-weight: bold; width: 230px;\">Stadt/Community</td>\n";
+echo "    <td style=\"font-weight: bold; width: 50px;\">Karte</td>\n";
+echo "    <td style=\"font-weight: bold;\">Ansprechpartner</td>\n";
+echo "</tr>\n";
 
 foreach($comms_arr as $community_arr) {                                                                                                               // run through communities
   $community = new stdClass();
@@ -15,15 +18,15 @@ foreach($comms_arr as $community_arr) {                                         
 
   echo "<tr>\n";
   if($community->url) {                                                                                                                               // if url is present
-    echo "  <td valign=\"top\"><a href=\"$community->url\" target=\"_tab\">$community->name</a>";                                                     // link community name
+    echo "  <td valign=\"top\" style=\"padding-left: 10px;\"><a href=\"$community->url\" target=\"_new\">&bull; $community->name</a>";                // link community name
   } else {
-    echo "  <td valign=\"top\">$community->name";                                                                                                     // else print plaintext
+    echo "  <td valign=\"top\" style=\"padding-left: 10px;\">&bull; $community->name";                                                                // else print plaintext
   }
   if($community->prefix) echo " ($community->prefix)";                                                                                                // print prefix if present
   echo "</td>\n";
 
   if($community->map) {                                                                                                                               // if map url is present
-    echo "  <td valign=\"top\" align=\"center\"><a href=\"$community->map\" target=\"_tab\"><img src=\"map.png\" width=\"14\"/></a></td>\n";          // print map icon
+    echo "  <td valign=\"top\" align=\"center\"><a href=\"$community->map\" target=\"_new\"><img src=\"http://freifunk-ruhrgebiet.de/wp-content/uploads/2014/08/location-map.png\" width=\"15\"/></a></td>\n"; // print map icon
   } else {
     echo "  <td valign=\"top\">&nbsp;</td>\n";
   }
