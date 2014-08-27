@@ -5,6 +5,8 @@ $comms_url  = "https://raw.githubusercontent.com/ffruhr/website-stuff/master/com
 $comms_json = file_get_contents($comms_url);
 $comms_arr  = json_decode($comms_json,TRUE);
 
+asort($comms_arr);
+
 echo "<table>\n";
 echo "<tr><td style=\"font-weight: bold; width: 230px;\">Stadt/Community</td>\n";
 echo "    <td style=\"font-weight: bold; width: 50px;\">Karte</td>\n";
