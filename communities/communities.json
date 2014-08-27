@@ -54,6 +54,26 @@
     ]
   },
   {
+    "name": "Essen-Burgaltendorf",
+    "url": "https://wiki.freifunk-rheinland.net/Essen",
+    "map": "http://map.freifunk-ruhrgebiet.de/E/",
+    "prefix": "FF-E-Bdorf-",
+    "contacts": [
+      {
+        "firstname": "Jörg",
+        "lastname": "Backschues",
+        "nickname": "",
+        "mail": "joerg@backschues.de "
+      },
+      {
+        "firstname": "Martin",
+        "lastname": "von der Gathen",
+        "nickname": "",
+        "mail": "webmaster@burgaltendorf.de"
+      }
+    ]
+  },
+  {
     "name": "Essen-Kupferdreh",
     "url": "",
     "map": "",
