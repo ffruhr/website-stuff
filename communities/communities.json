@@ -69,9 +69,9 @@
   },
   {
     "name": "Essen-Kupferdreh",
-    "url": "",
-    "map": "",
-    "prefix": "",
+    "url": "http://freifunk.essen-kupferdreh.ruhr",
+    "map": "http://freifunk.essen-kupferdreh.ruhr/graph.html",
+    "prefix": "FF-E-Kupferdreh-",
     "contacts": [
       {
         "firstname": "Arnd",
