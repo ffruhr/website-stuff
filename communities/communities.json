@@ -21,7 +21,7 @@
   },
   {
     "name": "Oberhausen",
-    "url": "http://wiki.freifunk.net/Freifunk_Oberhausen",
+    "url": "https://wiki.freifunk-rheinland.net/Oberhausen",
     "map": "http://map.freifunk-ruhrgebiet.de/OB/",
     "prefix": "FF-OB-",
     "contacts": [
@@ -265,7 +265,7 @@
   },
   {
     "name": "Gelsenkirchen",
-    "url": "http://wiki.freifunk.net/Freifunk_Gelsenkirchen",
+    "url": "",
     "map": "",
     "prefix": "FF-GE-",
     "contacts": [
@@ -298,10 +298,16 @@
     "prefix": "FF-DO-",
     "contacts": [
       {
-        "firstname": "Team Ruhrgebiet",
-        "lastname": "",
-        "nickname": "",
-        "mail": "adminz@freifunk-ruhrgebiet.de"
+        "firstname": "Sven",
+        "lastname": "Borchert",
+        "nickname": "Organisation",
+        "mail": "sven.borchert@gmx.net"
+      },
+      {
+        "firstname": "Wolfgang",
+        "lastname": "Pähler",
+        "nickname": "Technik",
+        "mail": "wolfgang.paehler@piratenpartei-nrw.de"
       }
     ]
   },
@@ -312,10 +318,10 @@
     "prefix": "",
     "contacts": [
       {
-        "firstname": "Team Ruhrgebiet",
-        "lastname": "",
+        "firstname": "Till",
+        "lastname": "Neuhaus",
         "nickname": "",
-        "mail": "adminz@freifunk-ruhrgebiet.de"
+        "mail": "till.neuhaus@gmail.com"
       }
     ]
   },
