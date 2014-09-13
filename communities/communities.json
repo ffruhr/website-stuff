@@ -298,14 +298,14 @@
     "prefix": "FF-DO-",
     "contacts": [
       {
-        "firstname": "Sven",
-        "lastname": "Borchert",
+        "firstname": "Sven Borchert",
+        "lastname": "",
         "nickname": "Organisation",
         "mail": "sven.borchert@gmx.net"
       },
       {
-        "firstname": "Wolfgang",
-        "lastname": "Pähler",
+        "firstname": "Wolfgang Pähler",
+        "lastname": "",
         "nickname": "Technik",
         "mail": "wolfgang.paehler@piratenpartei-nrw.de"
       }
