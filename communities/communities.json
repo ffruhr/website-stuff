@@ -28,7 +28,7 @@
       {
         "firstname": "Chris",
         "lastname": "",
-        "nickname": "CHR1S",
+        "nickname": "CHRlS",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
@@ -83,29 +83,21 @@
   },
   {
     "name": "Bochum",
-    "url": "",
+    "url": "http://www.freifunk-bochum.de",
     "map": "http://map.freifunk-ruhrgebiet.de/BO/",
     "prefix": "FF-BO-",
     "contacts": [
       {
-        "firstname": "Julian",
-        "lastname": "",
-        "nickname": "",
-        "mail": "julian@freifunk-ruhrgebiet.de"
-      }
-    ]
-  },
-  {
-    "name": "Bochum Bermuda3ck",
-    "url": "",
-    "map": "",
-    "prefix": "",
-    "contacts": [
-      {
         "firstname": "André",
         "lastname": "",
-        "nickname": "",
+        "nickname": "Zumpel",
         "mail": "andre@freifunk-ruhrgebiet.de"
+      },
+      {
+        "firstname": "Julian",
+        "lastname": "",
+        "nickname": "daduke",
+        "mail": "julian@freifunk-ruhrgebiet.de"
       }
     ]
   },
@@ -113,7 +105,7 @@
     "name": "Herten",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-RE-",
     "contacts": [
       {
         "firstname": "Jörg",
@@ -127,7 +119,7 @@
     "name": "Herne",
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HER/",
-    "prefix": "",
+    "prefix": "FF-HER-",
     "contacts": [
       {
         "firstname": "Chris",
@@ -141,7 +133,7 @@
     "name": "Mülheim",
     "url": "",
     "map": "",
-    "prefix": "FF-MUL-",
+    "prefix": "FF-OB-",
     "contacts": [
       {
         "firstname": "Janik",
@@ -155,12 +147,26 @@
     "name": "Eversael",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-WES-",
     "contacts": [
       {
         "firstname": "Chris",
         "lastname": "",
-        "nickname": "CHR1S",
+        "nickname": "CHRlS",
+        "mail": "chris@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Wesel (Kreis)",
+    "url": "",
+    "map": "",
+    "prefix": "FF-WES-",
+    "contacts": [
+      {
+        "firstname": "Chris",
+        "lastname": "",
+        "nickname": "CHRlS",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
@@ -183,7 +189,7 @@
     "name": "Hamm",
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HAM/",
-    "prefix": "",
+    "prefix": "FF-HAM-",
     "contacts": [
       {
         "firstname": "Martin",
@@ -315,7 +321,7 @@
     "name": "Castrop-Rauxel",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-CAS-",
     "contacts": [
       {
         "firstname": "Till",
@@ -326,10 +332,52 @@
     ]
   },
   {
-    "name": "Bad Essen",
+    "name": "Bottrop",
+    "url": "",
+    "map": "",
+    "prefix": "FF-BOT-",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Dorsten",
     "url": "",
     "map": "",
     "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Gladbeck",
+    "url": "",
+    "map": "",
+    "prefix": "",
+    "contacts": [
+      {
+        "firstname": "Team Ruhrgebiet",
+        "lastname": "",
+        "nickname": "",
+        "mail": "adminz@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Recklinghausen",
+    "url": "",
+    "map": "",
+    "prefix": "FF-RE-",
     "contacts": [
       {
         "firstname": "Team Ruhrgebiet",
