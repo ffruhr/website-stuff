@@ -388,6 +388,20 @@
     ]
   },
   {
+    "name": "Muensterland",
+    "url": "",
+    "map": "",
+    "prefix": "FF-MUS-",
+    "contacts": [
+      {
+        "firstname": "Paulo",
+        "lastname": "",
+        "nickname": "",
+        "mail": "paulo@dreiischen.de"
+      }
+    ]
+  },
+  {
     "name": "Krefeld",
     "url": "",
     "map": "",
