@@ -157,6 +157,20 @@
       }
     ]
   },
+    {
+    "name": "Voerde",
+    "url": "",
+    "map": "",
+    "prefix": "FF-WES-",
+    "contacts": [
+      {
+        "firstname": "Stefan",
+        "lastname": "Meiners",
+        "nickname": "",
+        "mail": "stefan@unkreativ.net"
+      }
+    ]
+  },
   {
     "name": "Wesel (Kreis)",
     "url": "",
