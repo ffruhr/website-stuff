@@ -428,5 +428,19 @@
         "mail": "reiner@freifunk-moenchengladbach.de"
       }
     ]
+  },
+ {
+    "name": "Meinerzhagen",
+    "url": "https://www.facebook.com/freifunkmeinerzhagen",
+    "map": "http://map.freifunk-ruhrgebiet.de/MZ/",
+    "prefix": "FF-MZ-",
+    "contacts": [
+      {
+        "firstname": "Ling",
+        "lastname": "",
+        "nickname": "LingLing",
+        "mail": "freifunk.meinerzhagen@gmail.com"
+      }
+    ]
   }
 ]
