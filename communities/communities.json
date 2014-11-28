@@ -429,6 +429,26 @@
       }
     ]
   },
+  {
+    "name": "Hattingen",
+    "url": "https://www.facebook.com/FreifunkHattingen",
+    "map": "http://map.freifunk-ruhrgebiet.de/EN/",
+    "prefix": "FF-HAT-",
+    "contacts": [
+      {
+        "firstname": "Sascha",
+        "lastname": "",
+        "nickname": "",
+        "mail": "sascha@freifunk-hattingen.de"
+      },
+      {
+        "firstname": "Marcus",
+        "lastname": "",
+        "nickname": "",
+        "mail": "marcus@freifunk-hattingen.de"
+      }
+    ]
+  },
  {
     "name": "Meinerzhagen",
     "url": "https://www.facebook.com/freifunkmeinerzhagen",
