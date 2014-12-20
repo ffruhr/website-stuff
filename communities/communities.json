@@ -265,7 +265,7 @@
         "firstname": "Markus",
         "lastname": "",
         "nickname": "",
-        "mail": "markus.lindenberg@gmail.com"
+        "mail": "markus@lindenberg.io"
       }
     ]
   },
@@ -313,8 +313,8 @@
   },
   {
     "name": "Dortmund",
-    "url": "",
-    "map": "",
+    "url": "http://wiki.freifunk.net/Dortmund",
+    "map": "http://map.freifunk-ruhrgebiet.de/DO/",
     "prefix": "FF-DO-",
     "contacts": [
       {
