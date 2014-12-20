@@ -465,7 +465,7 @@
   },
  {
     "name": "Meinerzhagen",
-    "url": "https://www.facebook.com/freifunkmeinerzhagen",
+    "url": "http://freifunk-meinerzhagen.de/",
     "map": "http://map.freifunk-ruhrgebiet.de/MZ/",
     "prefix": "FF-MZ-",
     "contacts": [
@@ -473,7 +473,7 @@
         "firstname": "Ling",
         "lastname": "",
         "nickname": "LingLing",
-        "mail": "freifunk.meinerzhagen@gmail.com"
+        "mail": "hallo@freifunk-meinerzhagen.de"
       }
     ]
   },
