@@ -476,5 +476,25 @@
         "mail": "freifunk.meinerzhagen@gmail.com"
       }
     ]
+  },
+  {
+    "name": "Iserlohn",
+    "url": "http://www.freifunk-iserlohn.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/Is/",
+    "prefix": "FF-Is-",
+    "contacts": [
+      {
+        "firstname": "Julian",
+        "lastname": "",
+        "nickname": "JJX",
+        "mail": "info@freifunk-iserlohn.de"
+      },
+       {
+        "firstname": "Jonas",
+        "lastname": "",
+        "nickname": "Limlug",
+        "mail": "info@freifunk-iserlohn.de"
+      }
+    ]
   }
 ]
