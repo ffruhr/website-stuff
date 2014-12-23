@@ -494,6 +494,24 @@
         "lastname": "",
         "nickname": "Limlug",
         "mail": "info@freifunk-iserlohn.de"
+      },
+      {
+    "name": "Siegerland,
+    "url": "http://www.freifunk-siegerland.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/Si/",
+    "prefix": "FF-Si-",
+    "contacts": [
+      {
+        "firstname": "Klaus",
+        "lastname": "",
+        "nickname": "trotlf",
+        "mail": "dev0@mailbox.org"
+      },
+       {
+        "firstname": "Tobias",
+        "lastname": "",
+        "nickname": "Shguro",
+        "mail": "shguro@freenet.de"
       }
     ]
   }
