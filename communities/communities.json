@@ -518,17 +518,17 @@
     ]
   },
   {
-+    "name": "Altena",
-+    "url": "http://www.freifunk-altena.de",
-+    "map": "http://map.freifunk-ruhrgebiet.de/AL/",
-+    "prefix": "FF-AL-",
-+    "contacts": [
-+      {
-+        "firstname": "Bernd",
-+        "lastname": "",
-+        "nickname": "",
-+        "mail": "info@freifunk-altena.de"
-+      }
-+    ]
-+  }
+    "name": "Altena",
+    "url": "http://www.freifunk-altena.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/AL/",
+    "prefix": "FF-AL-",
+    "contacts": [
+      {
+        "firstname": "Bernd",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-altena.de"
+      }
+    ]
+  }
 ]
