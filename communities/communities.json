@@ -27,8 +27,8 @@
     "contacts": [
       {
         "firstname": "Chris",
-        "lastname": "",
-        "nickname": "CHRlS",
+        "lastname": "Bischoff",
+        "nickname": "",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
@@ -123,7 +123,7 @@
     "contacts": [
       {
         "firstname": "Chris",
-        "lastname": "",
+        "lastname": "Bischoff",
         "nickname": "",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
@@ -136,10 +136,10 @@
     "prefix": "FF-OB-",
     "contacts": [
       {
-        "firstname": "Janik",
-        "lastname": "",
+        "firstname": "Chris",
+        "lastname": "Bischoff",
         "nickname": "",
-        "mail": "janik@freifunk-ruhrgebiet.de"
+        "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
   },
@@ -151,8 +151,8 @@
     "contacts": [
       {
         "firstname": "Chris",
-        "lastname": "",
-        "nickname": "CHRlS",
+        "lastname": "Bischoff",
+        "nickname": "",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
@@ -179,8 +179,8 @@
     "contacts": [
       {
         "firstname": "Chris",
-        "lastname": "",
-        "nickname": "CHRlS",
+        "lastname": "Bischoff",
+        "nickname": "",
         "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
@@ -290,10 +290,16 @@
     "prefix": "FF-GE-",
     "contacts": [
       {
-        "firstname": "",
-        "lastname": "",
-        "nickname": "Ghosttown",
-        "mail": "ghosttown-freifunk@gmx.de"
+        "firstname": "Heinz",
+        "lastname": "Niski",
+        "nickname": "",
+        "mail": "privat@niski.de"
+      },
+      {
+        "firstname": "Michael",
+        "lastname": "Herzog",
+        "nickname": "",
+        "mail": "hallo@michaelherzog.info"
       }
     ]
   },
@@ -352,10 +358,10 @@
     "prefix": "FF-BOT-",
     "contacts": [
       {
-        "firstname": "Team Ruhrgebiet",
-        "lastname": "",
+        "firstname": "Chris",
+        "lastname": "Bischoff",
         "nickname": "",
-        "mail": "adminz@freifunk-ruhrgebiet.de"
+        "mail": "chris@freifunk-ruhrgebiet.de"
       }
     ]
   },
@@ -394,10 +400,10 @@
     "prefix": "FF-RE-",
     "contacts": [
       {
-        "firstname": "Team Ruhrgebiet",
-        "lastname": "",
+        "firstname": "Michael",
+        "lastname": "Herzog",
         "nickname": "",
-        "mail": "adminz@freifunk-ruhrgebiet.de"
+        "mail": "hallo@michaelherzog.info"
       }
     ]
   },
