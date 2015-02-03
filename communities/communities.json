@@ -277,15 +277,15 @@
   },
   {
     "name": "Hagen",
-    "url": "",
-    "map": "",
-    "prefix": "",
+    "url": "http://freifunk-hagen.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/HA/",
+    "prefix": "/^FF-HA-/i",
     "contacts": [
       {
-        "firstname": "Team Ruhrgebiet",
+        "firstname": "Team Hagen",
         "lastname": "",
         "nickname": "",
-        "mail": "adminz@freifunk-ruhrgebiet.de"
+        "mail": "info@freifunk-hagen.de"
       }
     ]
   },
