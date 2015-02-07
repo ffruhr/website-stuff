@@ -122,6 +122,12 @@
     "prefix": "FF-RE-",
     "contacts": [
       {
+        "firstname": "Michael",
+        "lastname": "Herzog",
+        "nickname": "",
+        "mail": "re@freifunk-ruhrgebiet.de"
+      },
+      {
         "firstname": "Jörg",
         "lastname": "",
         "nickname": "",
@@ -319,7 +325,7 @@
         "firstname": "Michael",
         "lastname": "Herzog",
         "nickname": "",
-        "mail": "hallo@michaelherzog.info"
+        "mail": "re@freifunk-ruhrgebiet.de"
       }
     ]
   },
@@ -368,6 +374,12 @@
         "lastname": "Neuhaus",
         "nickname": "",
         "mail": "till.neuhaus@gmail.com"
+      },
+      {
+        "firstname": "Michael",
+        "lastname": "Herzog",
+        "nickname": "",
+        "mail": "re@freifunk-ruhrgebiet.de"
       }
     ]
   },
@@ -406,6 +418,12 @@
     "prefix": "",
     "contacts": [
       {
+        "firstname": "Philip",
+        "lastname": "Euler",
+        "nickname": "",
+        "mail": "PEuler112@aol.com"
+      },      
+      {
         "firstname": "Team Ruhrgebiet",
         "lastname": "",
         "nickname": "",
@@ -423,7 +441,35 @@
         "firstname": "Michael",
         "lastname": "Herzog",
         "nickname": "",
-        "mail": "hallo@michaelherzog.info"
+        "mail": "re@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Marl",
+    "url": "",
+    "map": "",
+    "prefix": "FF-RE-",
+    "contacts": [
+      {
+        "firstname": "Michael",
+        "lastname": "Herzog",
+        "nickname": "",
+        "mail": "re@freifunk-ruhrgebiet.de"
+      }
+    ]
+  },
+  {
+    "name": "Haltern",
+    "url": "",
+    "map": "",
+    "prefix": "FF-RE-",
+    "contacts": [
+      {
+        "firstname": "Michael",
+        "lastname": "Herzog",
+        "nickname": "",
+        "mail": "re@freifunk-ruhrgebiet.de"
       }
     ]
   },
