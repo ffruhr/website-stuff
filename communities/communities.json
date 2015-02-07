@@ -34,6 +34,20 @@
     ]
   },
   {
+    "name": "Dinslaken",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/DIN/",
+    "prefix": "FF-DIN-",
+    "contacts": [
+      {
+        "firstname": "Harald",
+        "lastname": "Rode",
+        "nickname": "",
+        "mail": "rode.harald@web.de"
+      }
+    ]
+  },
+  {
     "name": "Essen",
     "url": "https://wiki.freifunk-rheinland.net/Essen",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
