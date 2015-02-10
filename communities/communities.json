@@ -616,5 +616,25 @@
         "mail": "info@freifunk-altena.de"
       }
     ]
+  },
+  {
+    "name": "Witten",
+    "url": "http://freifunk-witten.de",
+    "map": "http://ffmap.freifunk-witten.de",
+    "prefix": "FF-WIT-",
+    "contacts": [
+      {
+        "firstname": "Stefan",
+        "lastname": "Borggraefe",
+        "nick": "SteBo",
+        "mail": "stefan@freifunk-witten.de"
+      },
+      {
+        "firstname": "Harry",
+        "lastname": "Lipphaus",
+        "nick": "DerTrickreiche",
+        "mail": "harry@freifunk-witten.de"
+      }
+    ]
   }
 ]
