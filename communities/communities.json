@@ -636,5 +636,31 @@
         "mail": "harry@freifunk-witten.de"
       }
     ]
+  },
+  {
+    "name": "Lünen",
+    "url": "",
+    "map": "",
+    "prefix": "FF-Luenen-",
+    "contacts": [
+      {
+        "firstname": "Ute",
+        "lastname": "Brettner",
+        "nick": "",
+        "mail": "info@freifunk-luenen.de"
+      },
+      {
+        "firstname": "Dominik",
+        "lastname": "Pieper",
+        "nick": "",
+        "mail": "info@freifunk-luenen.de"
+      },
+      {
+        "firstname": "Dominik",
+        "lastname": "Kupschke",
+        "nick": "",
+        "mail": "info@freifunk-luenen.de"
+      },
+    ]
   }
 ]
