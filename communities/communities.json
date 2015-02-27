@@ -662,5 +662,47 @@
         "mail": "info@freifunk-luenen.de"
       }
     ]
+  },
+  {
+    "name": "Datteln",
+    "url": "http://freifunk-datteln.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "prefix": "FF-RE-DAT-",
+    "contacts": [
+      {
+        "firstname": "Team Datteln",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-datteln.de"
+      }
+    ]
+  },
+  {
+    "name": "Waltrop",
+    "url": "http://freifunk-waltrop.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "prefix": "FF-RE-WTP-",
+    "contacts": [
+      {
+        "firstname": "Team Datteln",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-datteln.de"
+      }
+    ]
+  },
+  {
+    "name": "Oer-Erkenschwick",
+    "url": "http://freifunk-datteln.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "prefix": "FF-RE-OER",
+    "contacts": [
+      {
+        "firstname": "Team Datteln",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-datteln.de"
+      }
+    ]
   }
 ]
