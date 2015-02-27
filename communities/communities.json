@@ -662,5 +662,19 @@
         "mail": "info@freifunk-luenen.de"
       }
     ]
+ },
+  {
+    "name": "Datteln",
+    "url": "http://freifunk-datteln.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "prefix": "/^FF-RE-DAT-/i",
+    "contacts": [
+      {
+        "firstname": "Daniel",
+        "lastname": "",
+        "nickname": "Toschke",
+        "mail": "duese@freifunk-datteln.de"
+      }
+    ]
   }
 ]
