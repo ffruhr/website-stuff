@@ -647,22 +647,7 @@
         "firstname": "Ute",
         "lastname": "Brettner",
         "nick": "",
-<<<<<<< HEAD
         "mail": "freifunk@fablab-luenen.de"
-=======
-        "mail": "info@freifunk-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Pieper",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Kupschke",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
       }
     ]
   },
@@ -705,7 +690,6 @@
         "lastname": "",
         "nickname": "",
         "mail": "info@freifunk-datteln.de"
->>>>>>> upstream/master
       }
     ]
   }
