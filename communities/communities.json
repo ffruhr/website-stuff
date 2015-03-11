@@ -34,6 +34,20 @@
     ]
   },
   {
+    "name": "Moers",
+    "url": "",
+    "map": "http://map.freifunk-ruhrgebiet.de/WES/",
+    "prefix": "FF-WES-",
+    "contacts": [
+      {
+        "firstname": "Marvin",
+        "lastname": "Schulte",
+        "nickname": "",
+        "mail": "marvin.schulte@miniworld-it.de"
+      }
+    ]
+  },
+  {
     "name": "Dinslaken",
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/DIN/",
