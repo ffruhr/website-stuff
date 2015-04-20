@@ -166,14 +166,20 @@
   {
     "name": "Mülheim",
     "url": "",
-    "map": "",
-    "prefix": "FF-OB-",
+    "map": "http://map.freifunk-ruhrgebiet.de/OB/",
+    "prefix": "FF-MH-",
     "contacts": [
       {
-        "firstname": "Chris",
-        "lastname": "Bischoff",
-        "nickname": "",
-        "mail": "chris@freifunk-ruhrgebiet.de"
+        "firstname": "Adreas",
+        "lastname": "Körber",
+        "nickname": "awwk",
+        "mail": "andreas.koerber@freifunk-muelheim.de"
+      },
+      {
+        "firstname": "Yaroslav",
+        "lastname": "Dimont",
+        "nickname": "marakara",
+        "mail": "yaroslav.dimont@freifunk-muelheim.de"
       }
     ]
   },
