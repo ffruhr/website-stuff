@@ -133,7 +133,7 @@
     "name": "Herten",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-HRT-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -387,7 +387,7 @@
     "name": "Castrop-Rauxel",
     "url": "",
     "map": "",
-    "prefix": "FF-CAS-",
+    "prefix": "FF-RE-CRL-",
     "contacts": [
       {
         "firstname": "Till",
@@ -421,7 +421,7 @@
     "name": "Dorsten",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-RE-DON-",
     "contacts": [
       {
         "firstname": "Oliver",
@@ -435,7 +435,7 @@
     "name": "Gladbeck",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-RE-GLA",
     "contacts": [
       {
         "firstname": "Philip",
@@ -455,7 +455,7 @@
     "name": "Recklinghausen",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-REC-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -469,7 +469,7 @@
     "name": "Marl",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-MAL-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -483,7 +483,7 @@
     "name": "Haltern",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-HTN-",
     "contacts": [
       {
         "firstname": "Michael",
