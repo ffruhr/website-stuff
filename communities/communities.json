@@ -659,27 +659,15 @@
   },
   {
     "name": "Lünen",
-    "url": "",
-    "map": "",
+    "url": "http://www.freifunk-luenen.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/Luenen/",
     "prefix": "FF-Luenen-",
     "contacts": [
       {
-        "firstname": "Ute",
-        "lastname": "Brettner",
+        "firstname": "Team Lünen",
+        "lastname": "",
         "nick": "",
-        "mail": "freifunk@fablab-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Pieper",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Kupschke",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
+        "mail": "info@ff-luenen.de"
       }
     ]
   },
@@ -699,7 +687,7 @@
   },
   {
     "name": "Waltrop",
-    "url": "http://freifunk-datteln.de",
+    "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-RE-WTP-",
     "contacts": [
