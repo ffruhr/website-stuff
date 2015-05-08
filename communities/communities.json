@@ -611,12 +611,12 @@
   },
   {
     "name": "Hemer",
-    "url": "http://wwww.freifunk-hemer.de",
+    "url": "http://www.freifunk-hemer.de",
     "map": "http://map.freifunk-ruhrgebiet.de/HE/",
     "prefix": "FF-HE-",
     "contacts": [
       {
-        "firstname": "FIlip87",
+        "firstname": "Filip87",
         "lastname": "",
         "nickname": "",
         "mail": "info@freifunk-hemer.de"
