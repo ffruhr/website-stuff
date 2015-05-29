@@ -133,7 +133,7 @@
     "name": "Herten",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-HRT-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -387,7 +387,7 @@
     "name": "Castrop-Rauxel",
     "url": "",
     "map": "",
-    "prefix": "FF-CAS-",
+    "prefix": "FF-RE-CRL-",
     "contacts": [
       {
         "firstname": "Till",
@@ -435,7 +435,7 @@
     "name": "Gladbeck",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-RE-GLA-",
     "contacts": [
       {
         "firstname": "Philip",
@@ -455,7 +455,7 @@
     "name": "Recklinghausen",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-REC-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -469,7 +469,7 @@
     "name": "Marl",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-MRL",
     "contacts": [
       {
         "firstname": "Michael",
@@ -483,7 +483,7 @@
     "name": "Haltern",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-RE-HTN-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -659,27 +659,15 @@
   },
   {
     "name": "Lünen",
-    "url": "",
-    "map": "",
+    "url": "http://www.freifunk-luenen.de",
+    "map": "http://map.freifunk-ruhrgebiet.de/Luenen/",
     "prefix": "FF-Luenen-",
     "contacts": [
       {
-        "firstname": "Ute",
-        "lastname": "Brettner",
+        "firstname": "Team Lünen",
+        "lastname": "",
         "nick": "",
-        "mail": "freifunk@fablab-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Pieper",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Kupschke",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
+        "mail": "info@ff-luenen.de"
       }
     ]
   },
@@ -699,7 +687,7 @@
   },
   {
     "name": "Waltrop",
-    "url": "http://freifunk-datteln.de",
+    "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-RE-WTP-",
     "contacts": [
