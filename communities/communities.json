@@ -659,25 +659,13 @@
   },
   {
     "name": "Lünen",
-    "url": "",
+    "url": "http://freifunk-luenen.de",
     "map": "",
     "prefix": "FF-Luenen-",
     "contacts": [
       {
-        "firstname": "Ute",
-        "lastname": "Brettner",
-        "nick": "",
-        "mail": "freifunk@fablab-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Pieper",
-        "nick": "",
-        "mail": "info@freifunk-luenen.de"
-      },
-      {
-        "firstname": "Dominik",
-        "lastname": "Kupschke",
+        "firstname": "Freifunk",
+        "lastname": "Lünen",
         "nick": "",
         "mail": "info@freifunk-luenen.de"
       }
