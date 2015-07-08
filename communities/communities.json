@@ -509,15 +509,15 @@
   },
   {
     "name": "Krefeld",
-    "url": "",
+    "url": "http://www.freifunk-krefeld.de",
     "map": "",
     "prefix": "FF-KR-",
     "contacts": [
       {
-        "firstname": "Reiner",
+        "firstname": "Thomas",
         "lastname": "",
         "nickname": "",
-        "mail": "reiner@freifunk-moenchengladbach.de"
+        "mail": "thomas@fragstein.de"
       }
     ]
   },
