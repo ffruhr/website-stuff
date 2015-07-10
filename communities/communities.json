@@ -712,5 +712,25 @@
         "mail": "info@freifunk-datteln.de"
       }
     ]
+  },
+  {
+    "name": "Straelen",
+    "url": "http://straelen.freifunk.net",
+    "map": "http://map.straelen.eu/meshviewer",
+    "prefix": "FF-STR",
+    "contacts": [
+      {
+        "firstname": "Christian",
+        "lastname": "Nowak",
+        "nick": "Chrisno",
+        "mail": "freifunk@straelen.eu"
+      },
+      {
+        "firstname": "Axel",
+        "lastname": "Stallknecht",
+        "nick": "",
+        "mail": "freifunk@straelen.eu"
+      }
+    ]
   }
 ]
