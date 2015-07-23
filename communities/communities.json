@@ -714,6 +714,26 @@
     ]
   },
   {
+    "name": "Kleve (Kreis)",
+    "url": "",
+    "map": "http://map.flachland.freifunk.ruhr/meshviewer",
+    "prefix": "FF-FL",
+    "contacts": [
+      {
+        "firstname": "Christian",
+        "lastname": "Nowak",
+        "nick": "Chrisno",
+        "mail": "freifunk@straelen.eu"
+      },
+      {
+        "firstname": "Axel",
+        "lastname": "Stallknecht",
+        "nick": "",
+        "mail": "freifunk@straelen.eu"
+      }
+    ]
+  },
+  {
     "name": "Straelen",
     "url": "http://straelen.freifunk.net",
     "map": "http://map.straelen.eu/meshviewer",
