@@ -133,7 +133,7 @@
     "name": "Herten",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-HRT-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -387,7 +387,7 @@
     "name": "Castrop-Rauxel",
     "url": "",
     "map": "",
-    "prefix": "FF-CAS-",
+    "prefix": "FF-CRL-",
     "contacts": [
       {
         "firstname": "Till",
@@ -421,7 +421,7 @@
     "name": "Dorsten",
     "url": "",
     "map": "",
-    "prefix": "",
+    "prefix": "FF-DON-",
     "contacts": [
       {
         "firstname": "Oliver",
@@ -455,7 +455,7 @@
     "name": "Recklinghausen",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-REC-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -469,7 +469,7 @@
     "name": "Marl",
     "url": "",
     "map": "",
-    "prefix": "FF-RE-",
+    "prefix": "FF-MAL-",
     "contacts": [
       {
         "firstname": "Michael",
@@ -687,9 +687,9 @@
   },
   {
     "name": "Waltrop",
-    "url": "http://freifunk-datteln.de",
+    "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
-    "prefix": "FF-RE-WTP-",
+    "prefix": "FF-WTP-",
     "contacts": [
       {
         "firstname": "Team Waltrop",
@@ -703,7 +703,7 @@
     "name": "Oer-Erkenschwick",
     "url": "http://freifunk-datteln.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
-    "prefix": "FF-RE-OER",
+    "prefix": "FF-OER",
     "contacts": [
       {
         "firstname": "Team Datteln",
