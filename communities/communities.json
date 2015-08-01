@@ -4,6 +4,8 @@
     "url": "URL to your website with http(s)://",
     "map": "URL to your map with http(s)://",
     "prefix": "Prefix of your nodes names",
+    "Domaene": "Name of supporting FFRL Domain",
+    "Firmware": "URL to the Firmware",
     "contacts": [
       {
         "firstname": "John",
@@ -24,6 +26,8 @@
     "url": "https://wiki.freifunk-rheinland.net/Oberhausen",
     "map": "http://map.freifunk-ruhrgebiet.de/OB/",
     "prefix": "FF-OB-",
+    "Domaene": "RG-West",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffrgwest/stable/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -38,6 +42,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/WES/",
     "prefix": "FF-WES-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Marvin",
@@ -52,6 +58,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/DIN/",
     "prefix": "FF-DIN-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Harald",
@@ -66,6 +74,8 @@
     "url": "https://wiki.freifunk-rheinland.net/Essen",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
     "prefix": "FF-E-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Philip",
@@ -86,6 +96,8 @@
     "url": "http://freifunk-burgaltendorf.de",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
     "prefix": "FF-E-Bdorf-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Jörg",
@@ -100,6 +112,8 @@
     "url": "http://freifunk.essen-kupferdreh.ruhr",
     "map": "http://freifunk.essen-kupferdreh.ruhr/graph.html",
     "prefix": "FF-E-Kupferdreh-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Arnd",
@@ -114,6 +128,8 @@
     "url": "http://www.freifunk-bochum.de",
     "map": "http://map.freifunk-ruhrgebiet.de/BO/",
     "prefix": "FF-BO-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "André",
@@ -128,6 +144,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-HRT-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Michael",
@@ -148,6 +166,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HER/",
     "prefix": "FF-HER-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Chris",
@@ -162,6 +182,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/OB/",
     "prefix": "FF-MH-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Adreas",
@@ -182,6 +204,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Chris",
@@ -196,6 +220,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -210,6 +236,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Chris",
@@ -224,6 +252,8 @@
     "url": "http://freifunk-duisburg.de",
     "map": "http://map.freifunk-ruhrgebiet.de/DU/",
     "prefix": "FF-DU-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Klaus",
@@ -238,6 +268,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HAM/",
     "prefix": "FF-HAM-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Martin",
@@ -258,6 +290,8 @@
     "url": "http://www.freifunk-gevelsberg.net/",
     "map": "http://map.freifunk-ruhrgebiet.de/EN/",
     "prefix": "",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Chris",
@@ -272,6 +306,8 @@
     "url": "http://freifunk-moenchengladbach.de",
     "map": "http://map.freifunk-moenchengladbach.de",
     "prefix": "FF-MG-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Freifunk Mönchengladbach",
@@ -286,6 +322,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/KK/",
     "prefix": "FF-KK-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Jan",
@@ -300,6 +338,8 @@
     "url": "",
     "map": "",
     "prefix": "",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Markus",
@@ -314,6 +354,8 @@
     "url": "http://freifunk-hagen.de",
     "map": "http://map.freifunk-ruhrgebiet.de/HA/",
     "prefix": "/^FF-HA-/i",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Team Hagen",
@@ -328,6 +370,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-GE-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Heinz",
@@ -348,6 +392,8 @@
     "url": "",
     "map": "",
     "prefix": "",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Freifunk Werne",
@@ -362,6 +408,8 @@
     "url": "http://wiki.freifunk.net/Dortmund",
     "map": "http://map.freifunk-ruhrgebiet.de/DO/",
     "prefix": "FF-DO-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Sven Borchert",
@@ -382,6 +430,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-CRL-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Till",
@@ -402,6 +452,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-BOT-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Chris",
@@ -416,6 +468,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-DON-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Oliver",
@@ -430,6 +484,8 @@
     "url": "",
     "map": "",
     "prefix": "",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Philip",
@@ -450,6 +506,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-REC-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Michael",
@@ -464,6 +522,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-MAL-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Michael",
@@ -478,6 +538,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-HTN-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Michael",
@@ -492,6 +554,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-MUS-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Paulo",
@@ -506,6 +570,8 @@
     "url": "http://www.freifunk-krefeld.de",
     "map": "",
     "prefix": "FF-KR-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Thomas",
@@ -520,6 +586,8 @@
     "url": "https://www.facebook.com/FreifunkHattingen",
     "map": "http://map.freifunk-ruhrgebiet.de/HAT/",
     "prefix": "FF-HAT-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Sascha",
@@ -540,6 +608,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-BOR-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Ralf",
@@ -554,6 +624,8 @@
     "url": "http://freifunk-meinerzhagen.de/",
     "map": "http://map.freifunk-ruhrgebiet.de/MZ/",
     "prefix": "FF-MZ-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Ling",
@@ -568,6 +640,8 @@
     "url": "https://www.freifunk-siegerland.de",
     "map": "http://map.freifunk-ruhrgebiet.de/Si/",
     "prefix": "FF-Si-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Klaus",
@@ -588,6 +662,8 @@
     "url": "http://www.freifunk-iserlohn.de",
     "map": "http://map.freifunk-ruhrgebiet.de/Is/",
     "prefix": "FF-Is-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Julian",
@@ -608,6 +684,8 @@
     "url": "http://www.freifunk-hemer.de",
     "map": "http://map.freifunk-ruhrgebiet.de/HE/",
     "prefix": "FF-HE-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Filip87",
@@ -622,6 +700,8 @@
     "url": "http://www.freifunk-altena.de",
     "map": "http://map.freifunk-ruhrgebiet.de/AL/",
     "prefix": "FF-AL-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Bernd",
@@ -636,6 +716,8 @@
     "url": "http://freifunk-witten.de",
     "map": "http://ffmap.freifunk-witten.de",
     "prefix": "FF-WIT-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -656,6 +738,8 @@
     "url": "http://freifunk-luenen.de",
     "map": "",
     "prefix": "FF-Luenen-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Freifunk",
@@ -670,6 +754,8 @@
     "url": "http://freifunk-datteln.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-DAT-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Team Datteln",
@@ -684,6 +770,8 @@
     "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-WTP-",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Team Waltrop",
@@ -698,6 +786,8 @@
     "url": "http://freifunk-datteln.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-OER",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Team Datteln",
@@ -712,6 +802,8 @@
     "url": "",
     "map": "http://map.flachland.freifunk.ruhr/meshviewer",
     "prefix": "FF-FL",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Christian",
@@ -732,6 +824,8 @@
     "url": "http://straelen.freifunk.net",
     "map": "http://map.straelen.eu/meshviewer",
     "prefix": "FF-STR",
+    "Domaene": "",
+    "Firmware": "",
     "contacts": [
       {
         "firstname": "Christian",
