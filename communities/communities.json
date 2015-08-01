@@ -7,7 +7,7 @@
     "Domaene": "Name of supporting FFRL Domain",
     "Firmware": "URL to the Firmware",
     "contacts": [
-      {
+      {h
         "firstname": "John",
         "lastname": "Doe",
         "nick": "JoDo",
@@ -268,8 +268,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HAM/",
     "prefix": "FF-HAM-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Hamm",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffham/stable/",
     "contacts": [
       {
         "firstname": "Martin",
@@ -290,7 +290,7 @@
     "url": "http://www.freifunk-gevelsberg.net/",
     "map": "http://map.freifunk-ruhrgebiet.de/EN/",
     "prefix": "",
-    "Domaene": "",
+    "Domaene": "EN-Kreis",
     "Firmware": "",
     "contacts": [
       {
@@ -338,8 +338,8 @@
     "url": "",
     "map": "",
     "prefix": "",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Dortmund",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffdo/stable/",
     "contacts": [
       {
         "firstname": "Markus",
@@ -354,7 +354,7 @@
     "url": "http://freifunk-hagen.de",
     "map": "http://map.freifunk-ruhrgebiet.de/HA/",
     "prefix": "/^FF-HA-/i",
-    "Domaene": "",
+    "Domaene": "EN-Kreis",
     "Firmware": "",
     "contacts": [
       {
@@ -374,16 +374,16 @@
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
-        "firstname": "Heinz",
-        "lastname": "Niski",
-        "nickname": "",
-        "mail": "privat@niski.de"
-      },
-      {
         "firstname": "Michael",
         "lastname": "Herzog",
         "nickname": "",
         "mail": "re@freifunk-ruhrgebiet.de"
+      },
+      {
+        "firstname": "Heinz",
+        "lastname": "Niski",
+        "nickname": "",
+        "mail": "privat@niski.de"
       }
     ]
   },
@@ -586,7 +586,7 @@
     "url": "https://www.facebook.com/FreifunkHattingen",
     "map": "http://map.freifunk-ruhrgebiet.de/HAT/",
     "prefix": "FF-HAT-",
-    "Domaene": "",
+    "Domaene": "EN-Kreis",
     "Firmware": "",
     "contacts": [
       {
@@ -624,8 +624,8 @@
     "url": "http://freifunk-meinerzhagen.de/",
     "map": "http://map.freifunk-ruhrgebiet.de/MZ/",
     "prefix": "FF-MZ-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
     "contacts": [
       {
         "firstname": "Ling",
@@ -640,8 +640,8 @@
     "url": "https://www.freifunk-siegerland.de",
     "map": "http://map.freifunk-ruhrgebiet.de/Si/",
     "prefix": "FF-Si-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
     "contacts": [
       {
         "firstname": "Klaus",
@@ -662,8 +662,8 @@
     "url": "http://www.freifunk-iserlohn.de",
     "map": "http://map.freifunk-ruhrgebiet.de/Is/",
     "prefix": "FF-Is-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
     "contacts": [
       {
         "firstname": "Julian",
@@ -716,7 +716,7 @@
     "url": "http://freifunk-witten.de",
     "map": "http://ffmap.freifunk-witten.de",
     "prefix": "FF-WIT-",
-    "Domaene": "",
+    "Domaene": "EN-Kreis",
     "Firmware": "",
     "contacts": [
       {
