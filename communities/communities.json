@@ -7,7 +7,7 @@
     "Domaene": "Name of supporting FFRL Domain",
     "Firmware": "URL to the Firmware",
     "contacts": [
-      {h
+      {
         "firstname": "John",
         "lastname": "Doe",
         "nick": "JoDo",
