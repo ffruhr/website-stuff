@@ -58,8 +58,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/DIN/",
     "prefix": "FF-DIN-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Harald",
@@ -74,8 +74,8 @@
     "url": "https://wiki.freifunk-rheinland.net/Essen",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
     "prefix": "FF-E-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Essen",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
       {
         "firstname": "Philip",
@@ -96,8 +96,8 @@
     "url": "http://freifunk-burgaltendorf.de",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
     "prefix": "FF-E-Bdorf-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Essen",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
       {
         "firstname": "Jörg",
@@ -112,8 +112,8 @@
     "url": "http://freifunk.essen-kupferdreh.ruhr",
     "map": "http://freifunk.essen-kupferdreh.ruhr/graph.html",
     "prefix": "FF-E-Kupferdreh-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Essen",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
       {
         "firstname": "Arnd",
@@ -128,8 +128,8 @@
     "url": "http://www.freifunk-bochum.de",
     "map": "http://map.freifunk-ruhrgebiet.de/BO/",
     "prefix": "FF-BO-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Bochum",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffbo/stable/",
     "contacts": [
       {
         "firstname": "André",
@@ -182,8 +182,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/OB/",
     "prefix": "FF-MH-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "RG-West",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffrgwest/stable/",
     "contacts": [
       {
         "firstname": "Adreas",
@@ -204,8 +204,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -220,8 +220,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -236,8 +236,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-WES-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -252,8 +252,8 @@
     "url": "http://freifunk-duisburg.de",
     "map": "http://map.freifunk-ruhrgebiet.de/DU/",
     "prefix": "FF-DU-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "RG-West",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffrgwest/stable/",
     "contacts": [
       {
         "firstname": "Klaus",
@@ -370,8 +370,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-GE-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Heinz",
@@ -408,8 +408,8 @@
     "url": "http://wiki.freifunk.net/Dortmund",
     "map": "http://map.freifunk-ruhrgebiet.de/DO/",
     "prefix": "FF-DO-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Dortmund",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffdo/stable/",
     "contacts": [
       {
         "firstname": "Sven Borchert",
@@ -802,8 +802,8 @@
     "url": "",
     "map": "http://map.flachland.freifunk.ruhr/meshviewer",
     "prefix": "FF-FL",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Christian",
@@ -824,8 +824,8 @@
     "url": "http://straelen.freifunk.net",
     "map": "http://map.straelen.eu/meshviewer",
     "prefix": "FF-STR",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
         "firstname": "Christian",
