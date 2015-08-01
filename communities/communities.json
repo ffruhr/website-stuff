@@ -144,8 +144,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-HRT-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Michael",
@@ -166,8 +166,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/HER/",
     "prefix": "FF-HER-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -430,8 +430,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-CRL-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Till",
@@ -449,8 +449,8 @@
   },
   {
     "name": "Bottrop",
-    "url": "",
-    "map": "",
+    "url": "Emscherland",
+    "map": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "prefix": "FF-BOT-",
     "Domaene": "",
     "Firmware": "",
@@ -468,8 +468,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-DON-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Oliver",
@@ -484,8 +484,8 @@
     "url": "",
     "map": "",
     "prefix": "",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Philip",
@@ -506,8 +506,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-REC-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Michael",
@@ -522,8 +522,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-MAL-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Michael",
@@ -538,8 +538,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-HTN-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Michael",
@@ -608,8 +608,8 @@
     "url": "",
     "map": "",
     "prefix": "FF-BOR-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Ralf",
@@ -754,8 +754,8 @@
     "url": "http://freifunk-datteln.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-DAT-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Team Datteln",
@@ -770,8 +770,8 @@
     "url": "http://freifunk-waltrop.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-WTP-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Team Waltrop",
@@ -786,8 +786,8 @@
     "url": "http://freifunk-datteln.de",
     "map": "http://map.freifunk-ruhrgebiet.de/RE/",
     "prefix": "FF-OER",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Team Datteln",
