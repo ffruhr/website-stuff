@@ -42,8 +42,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/WES/",
     "prefix": "FF-WES-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Niersufer",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Marvin",
@@ -306,8 +306,8 @@
     "url": "http://freifunk-moenchengladbach.de",
     "map": "http://map.freifunk-moenchengladbach.de",
     "prefix": "FF-MG-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Niersufer",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Freifunk Mönchengladbach",
@@ -322,8 +322,8 @@
     "url": "",
     "map": "http://map.freifunk-ruhrgebiet.de/KK/",
     "prefix": "FF-KK-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Niersufer",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Jan",
@@ -570,8 +570,8 @@
     "url": "http://www.freifunk-krefeld.de",
     "map": "",
     "prefix": "FF-KR-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Niersufer",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Thomas",
