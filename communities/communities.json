@@ -621,27 +621,27 @@
   },
  {
     "name": "Meinerzhagen",
-    "url": "http://freifunk-meinerzhagen.de/",
-    "map": "http://map.freifunk-ruhrgebiet.de/MZ/",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
     "prefix": "FF-MZ-",
     "Domaene": "Fichtenfunk",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
+    "Firmware": "http://firmware.freifunk-mk.de/meinerzhagen/stable/sysupgrade/",
     "contacts": [
       {
-        "firstname": "Ling",
+        "firstname": "Linn",
         "lastname": "",
         "nickname": "LingLing",
-        "mail": "hallo@freifunk-meinerzhagen.de"
+        "mail": "info@freifunk-mk.de"
       }
     ]
   },
   {
     "name": "Siegerland",
     "url": "https://www.freifunk-siegerland.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/Si/",
+    "map": "http://map.freifunk-mk.de/meshviewer",
     "prefix": "FF-Si-",
     "Domaene": "Fichtenfunk",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
+    "Firmware": "http://firmware.freifunk-mk.de/siegerland/stable/",
     "contacts": [
       {
         "firstname": "Klaus",
@@ -660,10 +660,10 @@
   {
     "name": "Iserlohn",
     "url": "http://www.freifunk-iserlohn.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/Is/",
+    "map": "http://map.freifunk-mk.de/meshviewer",
     "prefix": "FF-Is-",
     "Domaene": "Fichtenfunk",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffff/stable/",
+    "Firmware": "http://firmware.freifunk-mk.de/iserlohn/stable/",
     "contacts": [
       {
         "firstname": "Julian",
@@ -682,10 +682,10 @@
   {
     "name": "Hemer",
     "url": "http://www.freifunk-hemer.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/HE/",
+    "map": "http://map.freifunk-mk.de/meshviewer",
     "prefix": "FF-HE-",
     "Domaene": "",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-mk.de/hemer/stable/",
     "contacts": [
       {
         "firstname": "Filip87",
@@ -698,10 +698,10 @@
   {
     "name": "Altena",
     "url": "http://www.freifunk-altena.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/AL/",
+    "map": "http://map.freifunk-mk/meshviewer",
     "prefix": "FF-AL-",
     "Domaene": "",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-mk.de/altena/stable/",
     "contacts": [
       {
         "firstname": "Bernd",
@@ -838,6 +838,134 @@
         "lastname": "Stallknecht",
         "nick": "",
         "mail": "freifunk@straelen.eu"
+      }
+    ]
+  },
+  {
+    "name": "Halver",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Halver-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/halver/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Luedenscheid",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Lued-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/luedenscheid/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Menden",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Lued-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/menden/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Plettenberg",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Plet-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/plettenberg/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Herscheid",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Plet-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/herscheid/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Hilchenbach",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Hb-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/hilchenbach/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-siegerland.de"
+      }
+    ]
+  },
+  {
+    "name": "Schalksmuehle",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-SM-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/schalksmuehle/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
+      }
+    ]
+  },
+  {
+    "name": "Werdohl",
+    "url": "http://freifunk-mk.de/",
+    "map": "http://map.freifunk-mk.de/meshviewer/",
+    "prefix": "FF-Werdohl-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/werdol/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "",
+        "mail": "info@freifunk-mk.de"
       }
     ]
   }
