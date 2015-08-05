@@ -449,11 +449,11 @@
   },
   {
     "name": "Bottrop",
-    "url": "Emscherland",
-    "map": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "url": "",
+    "map": "",
     "prefix": "FF-BOT-",
-    "Domaene": "",
-    "Firmware": "",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
         "firstname": "Chris",
