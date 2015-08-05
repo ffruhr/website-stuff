@@ -95,7 +95,7 @@
     "name": "Essen-Burgaltendorf",
     "url": "http://freifunk-burgaltendorf.de",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
-    "prefix": "FF-E-Bdorf-",
+    "prefix": "FF-E-",
     "Domaene": "Essen",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
@@ -111,7 +111,7 @@
     "name": "Essen-Kupferdreh",
     "url": "http://freifunk.essen-kupferdreh.ruhr",
     "map": "http://freifunk.essen-kupferdreh.ruhr/graph.html",
-    "prefix": "FF-E-Kupferdreh-",
+    "prefix": "FF-E-",
     "Domaene": "Essen",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
