@@ -288,10 +288,10 @@
   {
     "name": "Gevelsberg",
     "url": "http://www.freifunk-gevelsberg.net/",
-    "map": "http://map.freifunk-ruhrgebiet.de/EN/",
+    "map": "http://map.en.freifunk.ruhr/enkreis/",
     "prefix": "",
     "Domaene": "EN-Kreis",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -355,7 +355,7 @@
     "map": "http://map.freifunk-ruhrgebiet.de/HA/",
     "prefix": "/^FF-HA-/i",
     "Domaene": "EN-Kreis",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-en.de/images/hagen/",
     "contacts": [
       {
         "firstname": "Team Hagen",
@@ -584,16 +584,30 @@
   {
     "name": "Hattingen",
     "url": "https://www.facebook.com/FreifunkHattingen",
-    "map": "http://map.freifunk-ruhrgebiet.de/HAT/",
+    "map": "http://map.en.freifunk.ruhr/enkreis/",
     "prefix": "FF-HAT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
     "contacts": [
       {
         "firstname": "Sascha",
         "lastname": "",
         "nickname": "",
         "mail": "sascha@freifunk-hattingen.de"
+      },
+  {
+    "name": "Sprockövel",
+    "url": "http://www.freifunk-sprockhoevel.de",
+    "map": "http://map.en.freifunk.ruhr/sprockhoevel/",
+    "prefix": "FF-SPR-",
+    "Domaene": "EN-Kreis",
+    "Firmware": "http://firmware.freifunk-en.de/images/stable/",
+    "contacts": [
+      {
+        "firstname": "Matthias",
+        "lastname": "",
+        "nickname": "mattes",
+        "mail": "mattes@air-raid.de"
       },
       {
         "firstname": "Marcus",
@@ -714,10 +728,10 @@
   {
     "name": "Witten",
     "url": "http://freifunk-witten.de",
-    "map": "http://ffmap.freifunk-witten.de",
+    "map": "http://map.en.freifunk.ruhr/witten/",
     "prefix": "FF-WIT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "",
+    "Firmware": "http://firmware.freifunk-en.de/images/witten/",
     "contacts": [
       {
         "firstname": "Stefan",
