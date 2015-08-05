@@ -595,8 +595,16 @@
         "nickname": "",
         "mail": "sascha@freifunk-hattingen.de"
       },
+      {
+        "firstname": "Marcus",
+        "lastname": "",
+        "nickname": "",
+        "mail": "marcus@freifunk-hattingen.de"
+      }
+    ]
+  },
   {
-    "name": "Sprockövel",
+    "name": "Sprockhövel",
     "url": "http://www.freifunk-sprockhoevel.de",
     "map": "http://map.en.freifunk.ruhr/sprockhoevel/",
     "prefix": "FF-SPR-",
@@ -606,14 +614,14 @@
       {
         "firstname": "Matthias",
         "lastname": "",
-        "nickname": "mattes",
+        "nickname": "",
         "mail": "mattes@air-raid.de"
       },
       {
-        "firstname": "Marcus",
+        "firstname": "Lars",
         "lastname": "",
         "nickname": "",
-        "mail": "marcus@freifunk-hattingen.de"
+        "mail": "lars@langewiesche.de"
       }
     ]
   },
