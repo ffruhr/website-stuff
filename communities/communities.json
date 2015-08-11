@@ -233,7 +233,7 @@
   },
   {
     "name": "Wesel (Kreis)",
-    "url": "",
+    "url": "http://freifunk-wesel.de",
     "map": "",
     "prefix": "FF-WES-",
     "Domaene": "Flachland",
@@ -793,7 +793,7 @@
   },
   {
     "name": "Kleve (Kreis)",
-    "url": "",
+    "url": "http://freifunk-kleve.de/",
     "map": "http://map.flachland.freifunk.ruhr/meshviewer",
     "prefix": "FF-FL",
     "Domaene": "Flachland",
