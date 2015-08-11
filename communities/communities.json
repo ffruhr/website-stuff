@@ -23,8 +23,8 @@
   },
   {
     "name": "Oberhausen",
-    "url": "https://wiki.freifunk-rheinland.net/Oberhausen",
-    "map": "http://map.freifunk-ruhrgebiet.de/OB/",
+    "url": "http://freifunk-oberhausen.de",
+    "map": "http://map.rg-west.freifunk.ruhr/",
     "prefix": "FF-OB-",
     "Domaene": "RG-West",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffrgwest/stable/",
@@ -179,8 +179,8 @@
   },
   {
     "name": "Mülheim",
-    "url": "",
-    "map": "http://map.freifunk-ruhrgebiet.de/OB/",
+    "url": "https://freifunk-muelheim.de",
+    "map": "http://map.rg-west.freifunk.ruhr/",
     "prefix": "FF-MH-",
     "Domaene": "RG-West",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffrgwest/stable/",
