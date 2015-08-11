@@ -240,10 +240,16 @@
     "Firmware": "http://images.flachland.freifunk.ruhr/",
     "contacts": [
       {
-        "firstname": "Chris",
-        "lastname": "Bischoff",
-        "nickname": "",
-        "mail": "chris@freifunk-ruhrgebiet.de"
+        "firstname": "Christian",
+        "lastname": "Nowak",
+        "nick": "Chrisno",
+        "mail": "freifunk@straelen.eu"
+      },
+      {
+        "firstname": "Axel",
+        "lastname": "Stallknecht",
+        "nick": "",
+        "mail": "freifunk@straelen.eu"
       }
     ]
   },
