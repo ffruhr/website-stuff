@@ -200,9 +200,9 @@
     ]
   },
   {
-    "name": "Eversael",
+    "name": "Rheinberg",
     "url": "",
-    "map": "",
+    "map": "http://map.flachland.freifunk.ruhr/",
     "prefix": "FF-WES-",
     "Domaene": "Flachland",
     "Firmware": "http://images.flachland.freifunk.ruhr/",
