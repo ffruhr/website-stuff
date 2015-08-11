@@ -59,7 +59,7 @@
     "map": "http://map.freifunk-ruhrgebiet.de/DIN/",
     "prefix": "FF-DIN-",
     "Domaene": "Flachland",
-    "Firmware": "http://images.flachland.freifunk.ruhr/",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/factory/",
     "contacts": [
       {
         "firstname": "Harald",
@@ -205,7 +205,7 @@
     "map": "http://map.flachland.freifunk.ruhr/",
     "prefix": "FF-WES-",
     "Domaene": "Flachland",
-    "Firmware": "http://images.flachland.freifunk.ruhr/",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/factory/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -221,7 +221,7 @@
     "map": "",
     "prefix": "FF-WES-",
     "Domaene": "Flachland",
-    "Firmware": "http://images.flachland.freifunk.ruhr/",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/factory/",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -237,7 +237,7 @@
     "map": "",
     "prefix": "FF-WES-",
     "Domaene": "Flachland",
-    "Firmware": "http://images.flachland.freifunk.ruhr/",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/factory/",
     "contacts": [
       {
         "firstname": "Christian",
@@ -797,7 +797,7 @@
     "map": "http://map.flachland.freifunk.ruhr/meshviewer",
     "prefix": "FF-FL",
     "Domaene": "Flachland",
-    "Firmware": "http://images.flachland.freifunk.ruhr/",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffkle/stable/factory/",
     "contacts": [
       {
         "firstname": "Christian",
