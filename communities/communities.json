@@ -973,9 +973,15 @@
     "contacts": [
       {
         "firstname": "Sascha",
-        "lastname": "",
+        "lastname": "Kursawe",
         "nick": "",
         "mail": "sascha@freifunk-hattingen.de"
+      },
+      {
+        "firstname": "Marcus",
+        "lastname": "Benthaus",
+        "nick": "",
+        "mail": "marcus@freifunk-hattingen.de"
       }
     ]
   },
