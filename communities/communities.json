@@ -142,16 +142,16 @@
   {
     "name": "Bochum",
     "url": "http://www.freifunk-bochum.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/BO/",
+    "map": "http://map.freifunk-bochum.de",
     "prefix": "FF-BO-",
     "Domaene": "Bochum",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffbo/stable/",
+    "Firmware": "http://images.freifunk-bochum.de/stable/",
     "contacts": [
       {
         "firstname": "André",
-        "lastname": "",
+        "lastname": "Kasper",
         "nickname": "Zumpel",
-        "mail": "andre@freifunk-ruhrgebiet.de"
+        "mail": "info@freifunk-bochum.de"
       }
     ]
   },
