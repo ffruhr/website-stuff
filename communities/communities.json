@@ -494,6 +494,12 @@
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
     "contacts": [
       {
+        "firstname": "Philip",
+        "lastname": "Euler",
+        "nickname": "",
+        "mail": "PEuler112@aol.com"
+      }, 
+      {
         "firstname": "Chris",
         "lastname": "Bischoff",
         "nickname": "",
