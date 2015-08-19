@@ -287,17 +287,17 @@
   },
   {
     "name": "Duisburg linksrheinisch",
-    "url": "http://freifunk-moers.de/",
+    "url": "http://freifunk-duisburg.de/",
     "map": "http://map.freifunk-niersufer.de/",
     "prefix": "FF-MO-",
     "Domaene": "Niersufer",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffmo/stable/factory/",
     "contacts": [
       {
-        "firstname": "Marvin",
-        "lastname": "Schulte",
+        "firstname": "Slawek",
+        "lastname": "Pastuszko",
         "nickname": "",
-        "mail": "marvin.schulte@miniworld-it.de"
+        "mail": "slawek@posteo.de"
       }
     ]
   },
