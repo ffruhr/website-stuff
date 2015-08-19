@@ -43,7 +43,7 @@
     "map": "http://map.freifunk-niersufer.de/",
     "prefix": "FF-WES-NV-",
     "Domaene": "Niersufer",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffmo/stable/",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Manuel",
