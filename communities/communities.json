@@ -393,7 +393,7 @@
     "map": "http://map.freifunk-ruhrgebiet.de/HA/",
     "prefix": "/^FF-HA-/i",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/hagen/",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/stable/",
     "contacts": [
       {
         "firstname": "Team Hagen",
