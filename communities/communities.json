@@ -288,15 +288,15 @@
   {
     "name": "Duisburg linksrheinisch",
     "url": "http://freifunk-duisburg.de/",
-    "map": "http://map.freifunk-niersufer.de/",
-    "prefix": "FF-MO-",
-    "Domaene": "Niersufer",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffmo/stable/factory/",
+    "map": "http://ffmap.freifunk-rheinland.net/",
+    "prefix": "FF-DU-",
+    "Domaene": "Rheinufer",
+    "Firmware": "http://images.freifunk-rheinland.net/images/gluon/rheinufer/stable/factory/",
     "contacts": [
       {
         "firstname": "Slawek",
-        "lastname": "Pastuszko",
-        "nickname": "",
+        "lastname": "",
+        "nickname": "@runningJackJack",
         "mail": "slawek@posteo.de"
       }
     ]
