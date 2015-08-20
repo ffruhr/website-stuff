@@ -289,14 +289,14 @@
     "name": "Duisburg linksrheinisch",
     "url": "http://freifunk-duisburg.de/",
     "map": "http://map.freifunk-niersufer.de/",
-    "prefix": "FF-MO-",
+    "prefix": "FF-DU-",
     "Domaene": "Niersufer",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffmo/stable/factory/",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
     "contacts": [
       {
         "firstname": "Slawek",
-        "lastname": "Pastuszko",
-        "nickname": "",
+        "lastname": "",
+        "nickname": "@runningJackJack",
         "mail": "slawek@posteo.de"
       }
     ]
