@@ -86,6 +86,22 @@
     ]
   },
   {
+    "name": "Hünxe",
+    "url": "",
+    "map": "http://map.flachland.freifunk.ruhr/",
+    "prefix": "FF-HNX-",
+    "Domaene": "Flachland",
+    "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/",
+    "contacts": [
+      {
+        "firstname": "Steffen",
+        "lastname": "Kaster",
+        "nickname": "",
+        "mail": "Steffen.kaster@live.de"
+      }
+    ]
+  },
+  {
     "name": "Essen",
     "url": "https://wiki.freifunk-rheinland.net/Essen",
     "map": "http://map.freifunk-ruhrgebiet.de/E/",
