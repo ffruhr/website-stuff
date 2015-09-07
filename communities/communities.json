@@ -421,11 +421,11 @@
   },
   {
     "name": "Gelsenkirchen",
-    "url": "",
-    "map": "",
-    "prefix": "FF-GE-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "url": "www.freifunk-gelsenkirchen.de",
+    "map": "http://map.ffgek.de/",
+    "prefix": "",
+    "Domaene": "Wupper",
+    "Firmware": "http://firmware.ffgek.de/",
     "contacts": [
       {
         "firstname": "Michael",
@@ -438,6 +438,12 @@
         "lastname": "Niski",
         "nickname": "",
         "mail": "privat@niski.de"
+      },
+      {
+        "firstname": "Community Gelsenkirchen",
+        "lastname": "",
+        "nickname": "",
+        "mail": "team@freifunk-gelsenkirchen.de"
       }
     ]
   },
