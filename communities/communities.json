@@ -103,17 +103,23 @@
   },
   {
     "name": "Essen",
-    "url": "https://wiki.freifunk-rheinland.net/Essen",
-    "map": "http://map.freifunk-ruhrgebiet.de/E/",
+    "url": "https://www.freifunk-essen.de/",
+    "map": "http://map.freifunk-essen.de/",
     "prefix": "FF-E-",
     "Domaene": "Essen",
     "Firmware": "http://images.freifunk-ruhrgebiet.de/ffe/stable/",
     "contacts": [
       {
         "firstname": "Philip",
+        "lastname": "Berndroth",
+        "nickname": "pberndro",
+        "mail": "philip@freifunk-rheinland.net"
+      },
+      {
+        "firstname": "Arnd",
         "lastname": "",
-        "nickname": "",
-        "mail": "philip@freifunk-ruhrgebiet.de"
+        "nickname": "Arnd",
+        "mail": "anrd@freifunk-ruhrgebiet.de"
       },
       {
         "firstname": "Janik",
