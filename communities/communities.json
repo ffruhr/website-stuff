@@ -842,6 +842,22 @@
     ]
   },
   {
+    "name": "Raesfeld",
+    "url": "",
+    "map": "http://map.el.freifunk.ruhr/meshviewer/",
+    "prefix": "FF-Raesfeld",
+    "Domaene": "Emscherland",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "contacts": [
+      {
+        "firstname": "",
+        "lastname": "",
+        "nickname": "Max_Bandbreite",
+        "mail": "freifunk-raesfeld@posteo.de"
+      }
+    ]
+  },
+  {
     "name": "Kleve (Kreis)",
     "url": "http://freifunk-kleve.de/",
     "map": "http://map.flachland.freifunk.ruhr/meshviewer",
