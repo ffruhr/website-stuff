@@ -367,7 +367,7 @@
     "map": "http://map.freifunk-moenchengladbach.de",
     "prefix": "FF-MG-",
     "Domaene": "Niersufer",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/",
+    "Firmware": "http://images.freifunk-moenchengladbach.de/stable/",
     "contacts": [
       {
         "firstname": "Freifunk Mönchengladbach",
