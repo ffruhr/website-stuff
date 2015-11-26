@@ -246,6 +246,12 @@
     "Firmware": "http://images.flachland.freifunk.ruhr/ffwes/stable/factory/",
     "contacts": [
       {
+        "firstname": "Stefan",
+        "lastname": "Streichsbier",
+        "nickname": "",
+        "mail": "stefan@streichsbier.net"
+      },
+      {
         "firstname": "Chris",
         "lastname": "Bischoff",
         "nickname": "",
