@@ -1078,5 +1078,21 @@
         "mail": "info@freifunk-mk.de"
       }
     ]
-  }
+  },
+  {
+    "name": "Schwalmtal",
+    "url": "http://freifunk-schwalmtal.de",
+    "map": "http://map.freifunk-schwalmtal.de",
+    "prefix": "FF-Schwalmtal-",
+    "Domaene": "Niersufer",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffniers/stable/factory/",
+    "contacts": [
+      {
+        "firstname": "Freifunk Schwalmtal",
+        "lastname": "",
+        "nick": "",
+        "mail": "kontakt@freifunk-schwalmtal.de"
+      },
+    ]
+  },
 ]
