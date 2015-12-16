@@ -38,6 +38,22 @@
     ]
   },
   {
+    "name": "Gummersbach",
+    "url": "http://www.freifunk-gummersbach.de",
+    "map": "http://map.freifunk-mk.de/",
+    "prefix": "FF-MK-",
+    "Domaene": "Fichtenfunk",
+    "Firmware": "http://firmware.freifunk-mk.de/gummersbach/stable/",
+    "contacts": [
+      {
+        "firstname": "Freifunk",
+        "lastname": "Gummersbach",
+        "nickname": "",
+        "mail": "info@freifunk-gummersbach.de"
+      }
+    ]
+  },
+  {
     "name": "Neukirchen-Vluyn",
     "url": "http://freifunk-nv.de/",
     "map": "http://map.freifunk-niersufer.de/",
