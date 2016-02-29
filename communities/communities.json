@@ -1038,11 +1038,17 @@
   {
     "name": "Hattingen",
     "url": "http://www.freifunk-hattingen.de/",
-    "map": "http://map.en.freifunk.ruhr/enkreis/",
-    "prefix": "FF-HAT-",
+    "map": "http://map.ff-en.de/hattingen/",
+    "prefix": "FF-Hattingen-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
+    "Firmware": "http://images.ff-en.de/images/hattingen/",
     "contacts": [
+      {
+        "firstname": "Marcus",
+        "lastname": "Benthaus",
+        "nick": "",
+        "mail": "marcus@freifunk-hattingen.de"
+      },
       {
         "firstname": "Sascha",
         "lastname": "Kursawe",
@@ -1050,10 +1056,10 @@
         "mail": "sascha@freifunk-hattingen.de"
       },
       {
-        "firstname": "Marcus",
-        "lastname": "Benthaus",
+        "firstname": "Patrick",
+        "lastname": "Balke",
         "nick": "",
-        "mail": "marcus@freifunk-hattingen.de"
+        "mail": "patrick@freifunk-hattingen.de"
       }
     ]
   },
