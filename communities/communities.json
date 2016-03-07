@@ -217,17 +217,23 @@
   },
   {
     "name": "Herne",
-    "url": "",
-    "map": "http://map.freifunk-ruhrgebiet.de/HER/",
+    "url": "https://www.facebook.com/freifunk.herne",
+    "map": "http://map.her.freifunk.ruhr/",
     "prefix": "FF-HER-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Herne",
+    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffher/stable/",
     "contacts": [
       {
         "firstname": "Andreas",
         "lastname": "Prennig",
         "nickname": "",
         "mail": "info@freifunk-herne.de"
+      },
+      {
+        "firstname": "Chris",
+        "lastname": "Bischoff",
+        "nickname": "",
+        "mail": "kontakt@freifunk-ruhrgebiet.de"
       }
     ]
   },
