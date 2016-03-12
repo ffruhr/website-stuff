@@ -375,11 +375,11 @@
   },
   {
     "name": "Gevelsberg",
-    "url": "http://www.freifunk-gevelsberg.net/",
-    "map": "http://map.en.freifunk.ruhr/enkreis/",
+    "url": "http://www.freifunk-gevelsberg.de/",
+    "map": "http://map.freifunk-gevelsberg.de",
     "prefix": "",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
+    "Firmware": "http://images.ff-en.de/images/enkreis/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -439,11 +439,11 @@
   },
   {
     "name": "Hagen",
-    "url": "http://freifunk-hagen.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/HA/",
-    "prefix": "/^FF-HA-/i",
+    "url": "http://www.freifunk-hagen.de",
+    "map": "http://map.ff-en.de/hagen/",
+    "prefix": "FF-HA-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/stable/",
+    "Firmware": "http://images.ff-en.de/images/enkreis/",
     "contacts": [
       {
         "firstname": "Team Hagen",
@@ -791,11 +791,11 @@
   },
   {
     "name": "Witten",
-    "url": "http://freifunk-witten.de",
-    "map": "http://map.en.freifunk.ruhr/witten/",
+    "url": "http://www.freifunk-witten.de",
+    "map": "http://map.freifunk-witten.de",
     "prefix": "FF-WIT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/witten/",
+    "Firmware": "http://images.ff-en.de/images/witten/",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -1066,10 +1066,10 @@
   {
     "name": "Sprockhoevel",
     "url": "http://www.freifunk-sprockhoevel.de",
-    "map": "http://map.en.freifunk.ruhr/sprockhoevel/",
+    "map": "http://map.ff-en.de/sprockhoevel/",
     "prefix": "FF-SPR-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/stable/",
+    "Firmware": "http://images.ff-en.de/images/sprockhoevel/",
     "contacts": [
       {
         "firstname": "Matthias",
