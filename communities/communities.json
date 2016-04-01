@@ -1086,6 +1086,22 @@
     ]
   },
   {
+    "name": "Wetter",
+    "url": "http://www.freifunk-wetter.de",
+    "map": "https://map.ff-en.de/enkreis/",
+    "prefix": "FF-EN-WTT-",
+    "Domaene": "EN-Kreis",
+    "Firmware": "http://images.ff-en.de/enkreis/stable/",
+    "contacts": [
+      {
+        "firstname": "Marcel",
+        "lastname": "Rembges",
+        "nick": "",
+        "mail": "marcel@freifunk-wetter.de"
+      }
+    ]
+  },
+  {
     "name": "Werdohl",
     "url": "http://freifunk-mk.de/",
     "map": "http://map.freifunk-mk.de/meshviewer/",
