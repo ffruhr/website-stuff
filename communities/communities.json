@@ -375,17 +375,17 @@
   },
   {
     "name": "Gevelsberg",
-    "url": "http://www.freifunk-gevelsberg.net/",
-    "map": "http://map.en.freifunk.ruhr/enkreis/",
-    "prefix": "",
+    "url": "http://www.freifunk-gevelsberg.de/",
+    "map": "https://map.freifunk-gevelsberg.de/",
+    "prefix": "FF-EN-GEV-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
+    "Firmware": "http://images.ff-en.de/images/enkreis/stable/",
     "contacts": [
       {
         "firstname": "Chris",
-        "lastname": "",
-        "nickname": "sirhcnailuj",
-        "mail": "sirhcnailuj@freifunk-ruhrgebiet.de"
+        "lastname": "J. Demmer",
+        "nickname": "",
+        "mail": "kontakt@freifunk-gevelsberg.de"
       }
     ]
   },
@@ -439,17 +439,17 @@
   },
   {
     "name": "Hagen",
-    "url": "http://freifunk-hagen.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/HA/",
-    "prefix": "/^FF-HA-/i",
+    "url": "http://www.freifunk-hagen.de",
+    "map": "http://map.freifunk-hagen.de",
+    "prefix": "FF-HA-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/stable/",
+    "Firmware": "http://images.ff-en.de/images/enkreis/stable/",
     "contacts": [
       {
         "firstname": "Team Hagen",
         "lastname": "",
         "nickname": "",
-        "mail": "info@freifunk-hagen.de"
+        "mail": "kontakt@freifunk-hagen.de"
       }
     ]
   },
@@ -791,16 +791,16 @@
   },
   {
     "name": "Witten",
-    "url": "http://freifunk-witten.de",
-    "map": "http://map.en.freifunk.ruhr/witten/",
+    "url": "http://www.freifunk-witten.de",
+    "map": "http://map.freifunk-witten.de",
     "prefix": "FF-WIT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/witten/",
+    "Firmware": "http://images.ff-en.de/witten/stable/",
     "contacts": [
       {
         "firstname": "Stefan",
         "lastname": "Borggraefe",
-        "nick": "SteBo",
+        "nick": "",
         "mail": "stefan@freifunk-witten.de"
       }
     ]
@@ -1044,11 +1044,17 @@
   {
     "name": "Hattingen",
     "url": "http://www.freifunk-hattingen.de/",
-    "map": "http://map.en.freifunk.ruhr/enkreis/",
-    "prefix": "FF-HAT-",
+    "map": "http://map.freifunk-hattingen.de/",
+    "prefix": "FF-Hattingen-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/enkreis/",
+    "Firmware": "http://images.ff-en.de/hattingen/stable/",
     "contacts": [
+      {
+        "firstname": "Patrick",
+        "lastname": "Balke",
+        "nick": "",
+        "mail": "patrick@freifunk-hattingen.de"
+      },
       {
         "firstname": "Sascha",
         "lastname": "Kursawe",
@@ -1066,22 +1072,22 @@
   {
     "name": "Sprockhoevel",
     "url": "http://www.freifunk-sprockhoevel.de",
-    "map": "http://map.en.freifunk.ruhr/sprockhoevel/",
+    "map": "http://map.freifunk-sprockhoevel.de",
     "prefix": "FF-SPR-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://firmware.freifunk-en.de/images/stable/",
+    "Firmware": "http://images.ff-en.de/sprockhoevel/stable/",
     "contacts": [
       {
         "firstname": "Matthias",
-        "lastname": "",
+        "lastname": "Fehl",
         "nick": "mattes",
         "mail": "mattes@air-raid.de"
       },
       {
-        "firstname": "Marcus",
-        "lastname": "",
+        "firstname": "Lars",
+        "lastname": "Langewiesche",
         "nick": "",
-        "mail": "marcus@freifunk-hattingen.de"
+        "mail": "lars@freifunk-sprockhoevel.de"
       }
     ]
   },
@@ -1098,6 +1104,22 @@
         "lastname": "Rembges",
         "nick": "",
         "mail": "marcel@freifunk-wetter.de"
+      }
+    ]
+  },
+  {
+    "name": "Ennepetal",
+    "url": "http://www.freifunk-ennepetal.de",
+    "map": "https://map.freifunk-ennepetal.de",
+    "prefix": "FF-EN-EPT-",
+    "Domaene": "EN-Kreis",
+    "Firmware": "http://images.ff-en.de/enkreis/stable/",
+    "contacts": [
+      {
+        "firstname": "Ingo",
+        "lastname": "De Visser",
+        "nick": "",
+        "mail": "ingo@freifunk-ennepetal.de"
       }
     ]
   },
