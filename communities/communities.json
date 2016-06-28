@@ -196,16 +196,16 @@
   {
     "name": "Herten",
     "url": "",
-    "map": "",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-HRT-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
+        "firstname": "Tobias",
+        "lastname": "von Hebel",
+        "nickname": "TobiTX",
+        "mail": "info@freifunk-emscherland.de"
       },
       {
         "firstname": "Jörg",
@@ -462,12 +462,6 @@
     "Firmware": "http://firmware.ffgek.de/",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
-      },
-      {
         "firstname": "Heinz",
         "lastname": "Niski",
         "nickname": "",
@@ -522,32 +516,26 @@
   {
     "name": "Castrop-Rauxel",
     "url": "",
-    "map": "",
+    "map": "https://map.ffov.de/meshviewer/",
     "prefix": "FF-CRL-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
         "firstname": "Till",
         "lastname": "Neuhaus",
         "nickname": "",
         "mail": "till.neuhaus@gmail.com"
-      },
-      {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
       }
     ]
   },
   {
     "name": "Bottrop",
-    "url": "",
-    "map": "",
+    "url": "http://freifunk-bottrop.de/",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-BOT-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
         "firstname": "Philip",
@@ -566,10 +554,10 @@
   {
     "name": "Dorsten",
     "url": "",
-    "map": "",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-DON-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
         "firstname": "Oliver",
@@ -582,10 +570,10 @@
   {
     "name": "Gladbeck",
     "url": "",
-    "map": "",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-GLA-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
         "firstname": "Philip",
@@ -603,49 +591,49 @@
   },
   {
     "name": "Recklinghausen",
-    "url": "",
-    "map": "",
+    "url": "http://freifunk-recklinghausen.de",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-REC-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
+        "firstname": "Tobias",
+        "lastname": "von Hebel",
+        "nickname": "TobiTX",
+        "mail": "info@freifunk-emscherland.de"
       }
     ]
   },
   {
     "name": "Marl",
-    "url": "",
-    "map": "",
+    "url": "http://freifunk-emscherland.de",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-MAL-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
+        "firstname": "Tobias",
+        "lastname": "von Hebel",
+        "nickname": "TobiTX",
+        "mail": "info@freifunk-emscherland.de"
       }
     ]
   },
   {
     "name": "Haltern",
-    "url": "",
-    "map": "",
+    "url": "http://freifunk-emscherland.de",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-HTN-",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emscherland.de",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
+        "firstname": "Tobias",
+        "lastname": "von Hebel",
+        "nickname": "TobiTX",
+        "mail": "info@freifunk-emscherland.de"
       }
     ]
   },
@@ -683,11 +671,11 @@
   },
   {
     "name": "Borken",
-    "url": "",
-    "map": "",
+    "url": "http://freifunk-borken.de/",
+    "map": "http://karte.freifunk-wml.de/maps/map26/",
     "prefix": "FF-BOR-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Münsterland",
+    "Firmware": "http://firmware.freifunk-muensterland.org/domaene26/",
     "contacts": [
       {
         "firstname": "Ralf",
@@ -824,10 +812,10 @@
   {
     "name": "Datteln",
     "url": "http://freifunk-datteln.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "map": "https://map.ffov.de/meshviewer/",
     "prefix": "FF-DAT-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
         "firstname": "Team Datteln",
@@ -840,10 +828,10 @@
   {
     "name": "Waltrop",
     "url": "http://freifunk-waltrop.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "map": "https://map.ffov.de/meshviewer/",
     "prefix": "FF-WTP-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
         "firstname": "Team Waltrop",
@@ -856,10 +844,10 @@
   {
     "name": "Oer-Erkenschwick",
     "url": "http://freifunk-datteln.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "map": "https://map.ffov.de/meshviewer/",
     "prefix": "FF-OER",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
         "firstname": "Team Datteln",
@@ -872,10 +860,10 @@
   {
     "name": "Raesfeld",
     "url": "",
-    "map": "http://map.el.freifunk.ruhr/meshviewer/",
+    "map": "http://map.freifunk-emscherland.de",
     "prefix": "FF-Raesfeld",
     "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Firmware": "http://images.freifunk-emsherland.de",
     "contacts": [
       {
         "firstname": "",
