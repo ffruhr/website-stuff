@@ -823,49 +823,49 @@
   },
   {
     "name": "Datteln",
-    "url": "http://freifunk-datteln.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "url": "http://freifunk-ostvest.de",
+    "map": "http://map.freifunk-ostvest.de",
     "prefix": "FF-DAT-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
-        "firstname": "Team Datteln",
-        "lastname": "",
+        "firstname": "Freifunk",
+        "lastname": "Ostvest",
         "nickname": "",
-        "mail": "info@freifunk-datteln.de"
+        "mail": "info@freifunk-ostvest.de"
       }
     ]
   },
   {
     "name": "Waltrop",
-    "url": "http://freifunk-waltrop.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "url": "http://freifunk-ostvest.de",
+    "map": "http://map.freifunk-ostvest.de",
     "prefix": "FF-WTP-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
-        "firstname": "Team Waltrop",
-        "lastname": "",
+        "firstname": "Freifunk",
+        "lastname": "Ostvest",
         "nickname": "",
-        "mail": "info@freifunk-Waltrop.de"
+        "mail": "info@freifunk-ostvest.de"
       }
     ]
   },
   {
     "name": "Oer-Erkenschwick",
-    "url": "http://freifunk-datteln.de",
-    "map": "http://map.freifunk-ruhrgebiet.de/RE/",
+    "url": "http://freifunk-ostvest.de",
+    "map": "http://map.freifunk-ostvest.de",
     "prefix": "FF-OER",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "Domaene": "Ostvest",
+    "Firmware": "http://images.freifunk-ostvest.de/",
     "contacts": [
       {
-        "firstname": "Team Datteln",
-        "lastname": "",
+        "firstname": "Freifunk",
+        "lastname": "Ostvest",
         "nickname": "",
-        "mail": "info@freifunk-datteln.de"
+        "mail": "info@freifunk-ostvest.de"
       }
     ]
   },
