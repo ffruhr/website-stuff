@@ -376,10 +376,10 @@
   {
     "name": "Gevelsberg",
     "url": "http://www.freifunk-gevelsberg.de/",
-    "map": "https://map.freifunk-gevelsberg.de/",
+    "map": "http://map.freifunk-gevelsberg.de/",
     "prefix": "FF-EN-GEV-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/images/enkreis/stable/",
+    "Firmware": "http://images.ff-en.de/enkreis/stable/",
     "contacts": [
       {
         "firstname": "Chris",
@@ -443,7 +443,7 @@
     "map": "http://map.freifunk-hagen.de",
     "prefix": "FF-HA-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/images/enkreis/stable/",
+    "Firmware": "http://images.ff-en.de/enkreis/stable/",
     "contacts": [
       {
         "firstname": "Team Hagen",
@@ -1039,7 +1039,7 @@
     "name": "Hattingen",
     "url": "http://www.freifunk-hattingen.de/",
     "map": "http://map.freifunk-hattingen.de/",
-    "prefix": "FF-Hattingen-",
+    "prefix": "FF-HAT-",
     "Domaene": "EN-Kreis",
     "Firmware": "http://images.ff-en.de/hattingen/stable/",
     "contacts": [
@@ -1088,7 +1088,7 @@
   {
     "name": "Wetter",
     "url": "http://www.freifunk-wetter.de",
-    "map": "https://map.ff-en.de/enkreis/",
+    "map": "http://map.freifunk-wetter.de",
     "prefix": "FF-EN-WTT-",
     "Domaene": "EN-Kreis",
     "Firmware": "http://images.ff-en.de/enkreis/stable/",
@@ -1104,7 +1104,7 @@
   {
     "name": "Ennepetal",
     "url": "http://www.freifunk-ennepetal.de",
-    "map": "https://map.freifunk-ennepetal.de",
+    "map": "http://map.freifunk-ennepetal.de",
     "prefix": "FF-EN-EPT-",
     "Domaene": "EN-Kreis",
     "Firmware": "http://images.ff-en.de/enkreis/stable/",
