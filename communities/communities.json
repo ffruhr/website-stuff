@@ -1117,6 +1117,22 @@
       }
     ]
   },
+    {
+    "name": "Ennepetal",
+    "url": "http://www.freifunk-ennepetal.de/",
+    "map": "http://map.freifunk-ennepetal.de",
+    "prefix": "FF-EN-EPT-",
+    "Domaene": "EN-Kreis",
+    "Firmware": "http://images.ff-en.de/enkreis/stable/",
+    "contacts": [
+      {
+        "firstname": "Ingo",
+        "lastname": "De Visser",
+        "nickname": "",
+        "mail": "ingo@freifunk-ennepetal.de"
+      }
+    ]
+  },
   {
     "name": "Werdohl",
     "url": "http://freifunk-mk.de/",
