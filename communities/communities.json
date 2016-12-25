@@ -377,7 +377,7 @@
     "name": "Gevelsberg",
     "url": "http://www.freifunk-gevelsberg.de/",
     "map": "https://map.freifunk-gevelsberg.de/",
-    "prefix": "FF-EN-GEV-",
+    "prefix": "FF-GEV-",
     "Domaene": "EN-Kreis",
     "Firmware": "http://images.ff-en.de/images/enkreis/stable/",
     "contacts": [
@@ -789,7 +789,7 @@
     "map": "http://map.freifunk-witten.de",
     "prefix": "FF-WIT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/witten/stable/",
+    "Firmware": "https://images.ff-en.de/images/witten/stable/",
     "contacts": [
       {
         "firstname": "Stefan",
@@ -1038,15 +1038,15 @@
   {
     "name": "Hattingen",
     "url": "http://www.freifunk-hattingen.de/",
-    "map": "http://map.freifunk-hattingen.de/",
-    "prefix": "FF-Hattingen-",
+    "map": "http://map.ff-en.de/hattingen",
+    "prefix": "FF-HAT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/hattingen/stable/",
+    "Firmware": "https://images.ff-en.de/images/hattingen/stable/",
     "contacts": [
       {
         "firstname": "Patrick",
         "lastname": "Balke",
-        "nick": "",
+        "nick": "Pepe",
         "mail": "patrick@freifunk-hattingen.de"
       },
       {
@@ -1058,7 +1058,7 @@
       {
         "firstname": "Marcus",
         "lastname": "Benthaus",
-        "nick": "",
+        "nick": "maz",
         "mail": "marcus@freifunk-hattingen.de"
       }
     ]
@@ -1069,7 +1069,7 @@
     "map": "http://map.freifunk-sprockhoevel.de",
     "prefix": "FF-SPR-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/sprockhoevel/stable/",
+    "Firmware": "https://images.ff-en.de/images/sprockhoevel/stable/",
     "contacts": [
       {
         "firstname": "Matthias",
@@ -1088,10 +1088,10 @@
   {
     "name": "Wetter",
     "url": "http://www.freifunk-wetter.de",
-    "map": "https://map.ff-en.de/enkreis/",
-    "prefix": "FF-EN-WTT-",
+    "map": "https://map.ff-en.de/wetter/",
+    "prefix": "FF-WTT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/enkreis/stable/",
+    "Firmware": "http://images.ff-en.de/images/wetter/",
     "contacts": [
       {
         "firstname": "Marcel",
@@ -1105,9 +1105,9 @@
     "name": "Ennepetal",
     "url": "http://www.freifunk-ennepetal.de",
     "map": "https://map.freifunk-ennepetal.de",
-    "prefix": "FF-EN-EPT-",
+    "prefix": "FF-EPT-",
     "Domaene": "EN-Kreis",
-    "Firmware": "http://images.ff-en.de/enkreis/stable/",
+    "Firmware": "https://images.ff-en.de/images/ennepetal/",
     "contacts": [
       {
         "firstname": "Ingo",
